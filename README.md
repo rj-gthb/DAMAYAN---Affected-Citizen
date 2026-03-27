@@ -1,6 +1,6 @@
 # Affected Citizen
 
-**Affected Citizen** is a comprehensive full-stack application designed to streamline citizen assistance. Built with a tech stack (NestJS and Expo),
+**Affected Citizen** a comprehensive full-stack mobile application designed to streamline citizen assistance. Built with a tech stack (NestJS and Expo),
 
 ---
 
