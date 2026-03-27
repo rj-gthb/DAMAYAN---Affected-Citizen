@@ -82,6 +82,6 @@ Affected-Citizen/
 
 ## 🛠️ Testing
 
-- Use sample1@gmail.com (email) Sample123 (password) to test the features.
+- Use "sample1@gmail.com" as (email) "Sample123" as (password) to test the features.
 - Individual and Family registration will reflect in the table "register_citizens", and family members in "families"
 
